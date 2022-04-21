@@ -1,3 +1,3 @@
 # MaskDetection
 
-Realtime Mask Detection using Convulutional Neural Network (CNN) 
+Realtime Mask Detection using Convolutional Neural Network (CNN) 
